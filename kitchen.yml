@@ -45,7 +45,7 @@ platforms:
   - name: rhel75
     transport:
       username: ec2-user
-      ssh_key: ~/.ssh/bagio-ireleand.pem
+      ssh_key: ~/.ssh/bagio-training.pem
     driver:
       image_id: ami-092acf20fad7f7795
       #name: "RHEL-7.5_HVM-20180813-x86_64-0-Hourly2-GP2" 
@@ -55,7 +55,7 @@ platforms:
   - name: oracle76
     transport:
       username: ec2-user
-      ssh_key: ~/.ssh/bagio-ireleand.pem
+      ssh_key: ~/.ssh/bagio-training.pem
     driver:
       image_id: ami-0d164cf7f68ea2f56
       #owner-id: "131827586825"

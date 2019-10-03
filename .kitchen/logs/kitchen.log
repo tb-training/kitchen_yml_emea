@@ -1,0 +1,5 @@
+I, [2019-10-03T05:05:12.510702 #6817]  INFO -- Kitchen: -----> Starting Kitchen (v2.2.5)
+E, [2019-10-03T05:05:15.354864 #6817] ERROR -- Kitchen: 
+No instances for regex `xdef-rhel75', try running `kitchen list'
+
+

@@ -1,0 +1,3 @@
+I, [2019-09-30T09:19:07.761053 #32563]  INFO -- xdef-rhel75: -----> Destroying <xdef-rhel75>...
+I, [2019-09-30T09:19:07.921765 #32563]  INFO -- xdef-rhel75: EC2 instance <i-0a98fd573545f0a75> destroyed.
+I, [2019-09-30T09:19:07.922382 #32563]  INFO -- xdef-rhel75: Finished destroying <xdef-rhel75> (0m0.16s).

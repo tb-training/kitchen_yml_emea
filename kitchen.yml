@@ -8,14 +8,13 @@ driver:
   associate_public_ip: true
   instance_type: t2.micro
   tags:
-    # Replace YOURNAME and YOURCOMPANY here
-    Name: "BCA node"
-    X-Contact: "tiobagio"
+    # Replace YOURNAME here
+    Name: "<yourname>-node"
+    X-Contact: "tbagio"
     X-Application: "apac"
     X-Dept: "sales"
-    X-Customer: "bca"
-    X-Project: "demo"
-    X-Termination-Date: "2019-10-20T12:04:30Z"
+    X-Customer: "apjcorp"
+    X-Project: "demo/training"
     X-TTL: 100
 
 provisioner:
